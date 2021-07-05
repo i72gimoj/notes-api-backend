@@ -1,0 +1,7 @@
+PUT  http://localhost:3001/api/notes/60e2e7b8e2ba3014e43abfa0 
+Content-Type: application/json
+
+{
+    "content": "Suscribete a javiigm27 es gratis",
+    "important": true
+}
